@@ -21,4 +21,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutefearslanturkk&" alt="umutefearslanturkk" /></p>
 
 <p><b>Buy Me Caffe!</b></p>
-<img align="center" src="https://hizliresim.com/7pelrcz" alt="umutefearslanturkk" />
+<img align="center" src="https://i.hizliresim.com/7pelrcz.png" />
