@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutefearslanturkk&" alt="umutefearslanturkk" /></p>
 
-<p><a href="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"><b>Buy Me Caffe!</b></a></p>
+<p><a href="https://buymeacoffee.com/umutefe"><b>Buy Me Caffe!</b></a></p>
