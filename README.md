@@ -20,4 +20,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutefearslanturkk&" alt="umutefearslanturkk" /></p>
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="UmutEfe" data-color="#FFDD00" data-emoji="" data-font="Çerez" data-text="Bana bir kahve ısmarla" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+
+<p><img align="center" src="https://r.resimlink.com/aKJ40oS.png" alt="umutefearslanturkk" /></p>
